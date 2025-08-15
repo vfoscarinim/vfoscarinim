@@ -1,4 +1,4 @@
-## Hi there, here´s Vitoria Foscarini 👋
+## Oi pessoal, aqui é a Vitoria Foscarini 👋
 
 💻 **Futura Desenvolvedora Front-End | Foco em Experiência do Usuário (UX/UI)** 
 
