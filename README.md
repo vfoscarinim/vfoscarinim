@@ -1,6 +1,6 @@
-## Hi there, im Vitoria Foscarini 👋
+## Hi there, here´s Vitoria Foscarini 👋
 
-##💻 **Futura Desenvolvedora Front-End | Foco em Experiência do Usuário (UX/UI)** 
+💻 **Futura Desenvolvedora Front-End | Foco em Experiência do Usuário (UX/UI)** 
 
 Sou uma jovem profissional em início de carreira na área de tecnologia, com grande interesse em desenvolvimento front-end e design de interfaces centradas no usuário. Atualmente, sou Aprendiz em Tecnologia na Oi e estudante de Desenvolvimento Web e Experiência Digital pelo SENAI-RS.
 
