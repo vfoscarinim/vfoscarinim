@@ -22,5 +22,5 @@ Sou uma jovem profissional em início de carreira na área de tecnologia, com gr
 
 ## 📊 Estatísticas no GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vfoscarinim&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vfoscarinim&layout=compact&theme=radical)
